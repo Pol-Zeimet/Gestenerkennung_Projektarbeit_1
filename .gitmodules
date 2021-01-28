@@ -1,0 +1,3 @@
+[submodule "thirdparty/mdd"]
+	path = thirdparty/mdd
+	url = https://iz-gitlab-01.hs-karlsruhe.de/zesa0001/mdd-export.git

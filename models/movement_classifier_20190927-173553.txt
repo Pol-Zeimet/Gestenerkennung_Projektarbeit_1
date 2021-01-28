@@ -1,0 +1,4 @@
+train accuracy: 0.7810810810810811
+confusion matrix:[[289, 0], [81, 0]]
+test accuracy: 0.7846153846153846
+confusion matrix: [[51, 0], [14, 0]]
